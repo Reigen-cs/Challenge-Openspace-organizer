@@ -175,5 +175,9 @@ The seating assignment algorithm works as follows:
 
 - Handles missing CSV files by creating sample data
 - Manages CSV reading errors gracefully
-- Filters out empty or invalid names from the CSV file
-- Provides informative error messages
+- 
+#Credits
+
+This program is done by @DragosVoda2222 and myself
+
+
