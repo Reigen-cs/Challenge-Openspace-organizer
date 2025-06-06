@@ -8,7 +8,7 @@ from file_utils import load_colleagues_from_file, create_sample_file
 from openspace import Openspace
 
 def main():
-    print("Simple Openspace Seat Assignment")
+    print("Simple Openspace organizer algorythm")
     print("=" * 30)
     
     filepath = "colleagues.csv"
